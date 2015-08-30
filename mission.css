@@ -1,0 +1,33 @@
+.content-wrapper
+{
+	border-style: solid;
+	border-color: grey;
+	border-width: 1px;
+	border-spacing: 15px;
+	border-radius: 15px;
+
+}
+.content-wrapper img{
+	width: 150px;
+	height: 150px;
+}
+
+
+#special {
+	background : #EDEBFF;
+	margin-top : 42px ;
+}
+
+#special2 {
+	background: #EDEBFF;
+	margin-top: 30px;
+}
+
+#special3 {
+	background: #EDEBFF;
+	margin-top: 30px;
+}/*comment*/
+
+#row {
+	margin-top: 30px;
+}
