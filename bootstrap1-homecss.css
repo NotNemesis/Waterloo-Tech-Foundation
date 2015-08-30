@@ -10,6 +10,10 @@
 	margin-top: -15px;
 	/*margin-left: -15px;*/
 }
+
+.navbar{
+	margin: 0;
+}
 .navbar .container-fluid .btn {
 	margin: 30px;
 	/*margin-left: 45px;*/
