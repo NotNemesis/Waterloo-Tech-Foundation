@@ -18,10 +18,14 @@
 
 .jumbotron {
 	/*height: 600px;*/
-	width: inherit;
 	margin-top: -20px;
-	background-image: url("img/schoolhouse.jpg");
 	-webkit-filter: brightness(0.8) grayscale(0.9) opacity(0.8) saturate(1.4) sepia(0.4);
+	height                : 60%;
+	width                 : 100%;
+	background-attachment : fixed;
+	background-position   : bottom;
+	background-size       : cover;
+	background-image      : url('img/schoolhouse.jpg');
 }
 #a, #b {
 	font-size: 40px;
