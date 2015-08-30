@@ -1,0 +1,94 @@
+body {
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+.sponsoring {
+	text-align: center;
+}
+
+img {
+	margin: 30px;
+}
+
+
+p {
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+}
+*{
+	padding:0px;
+}
+
+#pc {
+	margin-top: 30px;
+}
+
+.space {
+	margin-top: 50px;
+}
+
+#ektts_wrapper{
+}
+
+.cht {
+	display: inline-block;
+	width: 40%;
+
+}
+
+.ctw{
+	position: relative;
+	width: 80%;
+	height: auto;
+}
+
+.chp{
+	display: inline-block;
+	width: 40%;
+/*	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+*/	
+}
+
+/*
+.charity {
+	margin-top: 100px;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.aol {
+	height: 69px; 
+	width: 173px;
+}
+
+.brain {
+	height: 173px; 
+	width: 173px;
+}
+
+.comm {
+	height: 38px; 
+	width: 173px;
+}
+
+.del {
+	height: 87px; 
+	width: 173px;
+}
+
+.kon {
+	height: 173px; 
+	width: 173px;
+}
+
+.pay {
+	height: 56px; 
+	width: 173px;
+}
+*/
