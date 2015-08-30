@@ -49,11 +49,14 @@ h1 {
 .chp{
 	display: inline-block;
 	width: 40%;
+	vertical-align: top;
+	margin-top: 15px;
+}
 /*	position: relative;
 	top: 50%;
 	transform: translateY(-50%);
 */	
-}
+
 
 /*
 .charity {
