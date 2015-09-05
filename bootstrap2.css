@@ -1,3 +1,7 @@
+html {
+    padding: 0px;
+}
+
 #mainNav {
     border-color: transparent;
 }
@@ -7,11 +11,7 @@
 }
 
 .jumbotron {
-<<<<<<< HEAD
-    width: inherit;
-=======
     /*height: 600px;*/
->>>>>>> origin/master
     -webkit-filter: brightness(0.8) grayscale(0.9) opacity(0.8) saturate(1.4) sepia(0.4);
     height                : 100%;
     width                 : 100%;
@@ -63,7 +63,7 @@
 #hr1{
     max-width: 300px;
     border-color: #ffffff;
-    border-width: 3px;
+    border-width: 0px;
 }
 
 #header2 {
@@ -79,20 +79,22 @@
 
 #ttd {
     text-align: center;
-    background-color: #7FDBFF;
-    margin-top: -30px; 
-    height: 85px;
-    width: 1300;
+    /*background-color: #7FDBFF;*/
+    margin-top: 0px; 
+    margin-bottom: -0px;
+    height: 80px;
+    padding: 0px;
 }
 
 .content-wrapper {
-    margin: 30px 20px 0px 20px;
+    margin: 30px 20px 0px 0px;
 }
 
 #wwd {
     text-align: center;
-    background-color: #7FDBFF;
+    /*background-color: #7FDBFF;*/
     height: 85px;
+    padding: 0px;
     /*height: 85px;*/
 }
 
@@ -104,15 +106,17 @@
 
 
 .content-background {
-    background-color: #0074D9;
+    /*background-color: #0074D9;*/
+    margin-bottom: 15px;
 }
 
 .indigo{
-    background-color: rgb(0,134,211);
+    /*background-color: rgb(0,134,211);*/
 }
 
 .col-sm-4 {
     text-align: center;
+ 
 }
 
 .content-wrapper-special {
@@ -125,6 +129,11 @@
     margin: auto;
     margin-top: 20px;
 }
+
+.col-sm-12 {
+
+}
+
 
 
 
